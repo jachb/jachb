@@ -1,4 +1,4 @@
-# Hi 👋 I'm Jan Bartnicki — Frontend Developer
+# Hi 👋 I'm Jan Bartnicki 
 
 ➤ Computer Science Engineer · Management & Marketing student · AI tools enthusiast.
 Building fast, SEO-optimized, fully responsive websites and web apps with modern tech (Next.js, React, TypeScript). Focused on performance, lead generation and clean UI. I actively use AI tools to ship smarter and faster.
