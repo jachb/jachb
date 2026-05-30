@@ -1,8 +1,6 @@
 # Hi 👋 I'm Jan Bartnicki 
 
-➤ Computer Science Engineer · Management & Marketing student · AI tools enthusiast.
-Building fast, SEO-optimized, fully responsive websites and web apps with modern tech (Next.js, React, TypeScript). Focused on performance, lead generation and clean UI. I actively use AI tools to ship smarter and faster.
-
+➤ AI-first builder · Computer Science Engineering degree · Management & Marketing student. I build and ship web apps, MVPs and websites with an AI-first approach — using AI dev tools (Claude Code, Codex, Cursor, MCP) to go from idea to working product fast. Currently building commercial Next.js websites for a marketing agency — fast, SEO-optimized, fully responsive, and focused on performance, lead generation and clean UI. I focus on why something is worth building, not just how to code it.
 ---
 
 ## 💻 Web Developer
@@ -10,11 +8,10 @@ Building fast, SEO-optimized, fully responsive websites and web apps with modern
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
-![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white)
-![Zod](https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white)
+
+
 
 ## 🛠️ Tools & Services
 
